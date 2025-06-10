@@ -67,7 +67,7 @@ ${translatedTafsirEnglish.text}`;
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363398106360290@newsletter', 
-            newsletterName: '꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂', 
+            newsletterName: '꧁༒☬ *ℑ𝔗 𝔗𝔈ℭℌ 𝔅ℜ𝔒 ☬༒꧂', 
             serverMessageId: 143
           }
         }
