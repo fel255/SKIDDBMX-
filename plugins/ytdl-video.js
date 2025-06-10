@@ -44,7 +44,7 @@ cmd({
             caption: `*${title}*`
         }, { quoted: mek });
 
-        await reply(`✅ *${title}* 『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝕾𝖎𝖗 𝕷𝖔𝖋𝖙⚡ 』`);
+        await reply(`✅ *${title}* 『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖⚡ 』`);
 
     } catch (error) {
         console.error(error);
