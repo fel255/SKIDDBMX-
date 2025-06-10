@@ -49,7 +49,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸ *Channel:* ${channelMeta.name}
 ┃▸ *Reaction:* ${emoji}
 ╰────────────────┈⊷
-> *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-BO𝐓*`);
+> *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 *ℑ𝔗 𝔗𝔈ℭℌ 𝔅ℜ𝔒'𝔖 𝔅𝔒𝔗*`);
     } catch (e) {
         console.error(e);
         reply(`❎ Error: ${e.message || "Failed to send reaction"}`);
