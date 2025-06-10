@@ -33,7 +33,7 @@ cmd({
 
     // Create the response message
     const message = `
-*𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓 NPM SEARCH*
+*ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖 NPM SEARCH*
 
 *🔰 NPM PACKAGE:* ${packageName}
 *📄 DESCRIPTION:* ${description}
