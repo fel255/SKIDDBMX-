@@ -38,8 +38,8 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝕾𝖎𝖗 𝕷𝖔𝖋𝖙⚡ 』",
-          newsletterName: "꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂",
+          newsletterJid: "『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖⚡ 』",
+          newsletterName: "꧁༒☬ ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖☬༒꧂",
           serverMessageId: 143
         }
       }
