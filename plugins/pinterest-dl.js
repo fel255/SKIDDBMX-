@@ -32,7 +32,7 @@ cmd({
         const videoUrl = media.find(item => item.type.includes('720p'))?.download_url || media[0].download_url;
 
         // Prepare the new message with the updated caption
-        const desc = `╭━━━〔 *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂* 〕━━━┈⊷
+        const desc = `╭━━━〔 *꧁༒☬ ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖 ☬༒꧂* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *PINS DOWNLOADER*
 ┃▸└───────────···๏
@@ -41,7 +41,7 @@ cmd({
 ┇๏ *Title* - ${title}
 ┇๏ *Media Type* - ${media[0].type}
 ╰━━❑━⪼
-> *『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝕾𝖎𝖗 𝕷𝖔𝖋𝖙⚡ 』*`;
+> *『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖⚡ 』*`;
 
         // Send the media (video or image) to the user
         if (videoUrl) {
