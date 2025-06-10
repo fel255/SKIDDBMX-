@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓 🐯`;
+> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖🐯`;
 
         // Send video directly with caption
         await conn.sendMessage(
