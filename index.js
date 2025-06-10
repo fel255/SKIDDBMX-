@@ -86,7 +86,7 @@ const port = process.env.PORT || 9090;
   console.log("Connecting to WhatsApp ⏳️...");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
   var { version } = await fetchLatestBaileysVersion()
-  
+  I
   const conn = makeWASocket({
           logger: P({ level: 'silent' }),
           printQRInTerminal: false,
@@ -114,7 +114,7 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let up = `*Hello there ꧁༒☬ ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖 ☬༒꧂ User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet Sir loft  WhatsApp Bot.\n\n *Thanks for using loft-xmd \ud83d\udea9* \n\n> \n\n- *YOUR PREFIX:* = ${prefix}\n\nhttps://github.com/loftxmd23/Loft-xmd-s24 Dont forget to give star to repo ⬇️\n\nhttps://github.com/loftxmd23/Loft-xmd-s24\n\n> 『 ⚡𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝕾𝖎𝖗 𝕷𝖔𝖋𝖙⚡ 』 \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/n40mdn.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/1dpqqm.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
