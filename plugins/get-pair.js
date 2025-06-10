@@ -5,7 +5,7 @@ cmd({
     pattern: "pair",
     alias: ["getpair", "clonebot"],
     react: "✅",
-    desc: "Get pairing code for ꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂",
+    desc: "Get pairing code for ꧁༒☬ ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖 ☬༒꧂",
     category: "download",
     use: ".pair 255",
     filename: __filename
@@ -27,7 +27,7 @@ cmd({
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *꧁༒☬ 𝕷𝕺𝕱𝕿-𝕏𝕸𝕯 ☬༒꧂ PAIRING COMPLETED*";
+        const doneMessage = "> *꧁༒☬ ℑ𝔗-𝔗𝔈ℭℌ-𝔅ℜ𝔒-𝔖 ☬༒꧂ PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
